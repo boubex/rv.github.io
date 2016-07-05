@@ -1,15 +1,15 @@
 # Site navigation links
 
-- title: About
+- title: About RV
   url: /about/
 
-- title: Articles
+- title: News
   url: /articles/
 
-- title: Blog
+- title: Reviews
   url: /blog/
 
-- title: Theme Setup
+- title: Board
   url: /theme-setup/
 
 - title: Search
